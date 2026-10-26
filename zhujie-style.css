@@ -108,3 +108,5 @@ details[open]>summary{margin-bottom:18px}
  .swatches>div{width:calc(50% - 6px)}
  .site-footer{padding:23px 20px;margin-bottom:0}
 }
+
+.type-specimen strong.serif{font-family:Georgia,serif}

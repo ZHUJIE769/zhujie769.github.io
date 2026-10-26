@@ -9,10 +9,14 @@
   "motivation_characters": 110,
   "ethics_bank_count": 30,
   "journal_principles": 12,
-  "ethics_combined_word_count": 79,
-  "partner_intro_words": 52,
-  "brand_statement_words": 75,
-  "brand_rationale_words": 116,
+  "ethics_scenario_word_counts": [
+    82,
+    80,
+    81
+  ],
+  "partner_intro_words": 50,
+  "brand_statement_words": 72,
+  "brand_rationale_words": 111,
   "constraints_count": 20,
-  "status": "AI-assisted learning draft; original student work pending"
+  "status": "CW01 review version; supplied student designs and notes combined with labelled assistance drafts"
 }
