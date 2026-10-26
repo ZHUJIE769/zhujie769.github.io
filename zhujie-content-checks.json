@@ -1,22 +1,8 @@
 {
-  "dates": [
-    "October 1, 2026",
-    "October 6, 2026",
-    "October 12, 2026",
-    "October 15, 2026",
-    "October 22, 2026"
-  ],
-  "motivation_characters": 110,
-  "ethics_bank_count": 30,
-  "journal_principles": 12,
-  "ethics_scenario_word_counts": [
-    82,
-    80,
-    81
-  ],
-  "partner_intro_words": 50,
-  "brand_statement_words": 72,
-  "brand_rationale_words": 111,
-  "constraints_count": 20,
-  "status": "CW01 review version; supplied student designs and notes combined with labelled assistance drafts"
+  "pages": 6,
+  "exercises": 9,
+  "weekly_journals": 5,
+  "unique_reference_links": 15,
+  "duplicate_reference_links": 0,
+  "static_files_and_anchors": "passed"
 }
