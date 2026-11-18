@@ -143,3 +143,4 @@ details[open]>summary{margin-bottom:18px}
 .print-frame{width:24%;padding:12px;background:#fffefa;border:8px solid #3e332d;box-shadow:6px 12px 15px #3e332d35}
 .print-frame img{display:block;width:100%;aspect-ratio:3/4;object-fit:contain;background:#fffefa}
 @media(max-width:720px){.mockup-wall{aspect-ratio:1.5;gap:9%;padding:22px}.print-frame{width:35%;padding:7px;border-width:5px}}
+#experimental-printmaking .process-grid{grid-template-columns:repeat(2,minmax(0,1fr))}@media(max-width:720px){#experimental-printmaking .process-grid{grid-template-columns:1fr}}
